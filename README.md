@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajithps03
 - 👀 I’m interested in programming and i have a little bit interest in ethical hacking
-- 🌱 I’m currently a under graduate student
+- 🌱 I’m currently an under graduate student
 - 📫 How to reach me 📧 prajithps03@gmail.com
 
 <!---
